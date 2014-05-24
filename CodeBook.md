@@ -1,3 +1,5 @@
+CodeBook:
+
 * label
 * subject
 * tBodyAcc-mean()-X
